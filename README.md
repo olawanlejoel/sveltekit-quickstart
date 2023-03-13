@@ -1,7 +1,7 @@
 # Deploying to Kinsta
 
-Ensure you add the node adapter. More info on https://kit.svelte.dev/docs/adapter-node
-Also add start command in package.json
+- Ensure you add the node adapter. More info on https://kit.svelte.dev/docs/adapter-node
+- Also add start command in package.json
 
 
 # create-svelte
