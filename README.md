@@ -1,4 +1,4 @@
-# Deploying to Kinsta
+# Deploying to Kinsta's App Hosting
 
 - Ensure you add the node adapter. More info on https://kit.svelte.dev/docs/adapter-node
 - Also add start command in package.json
